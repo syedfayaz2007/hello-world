@@ -5,5 +5,3 @@
 <h2> Hey, I'm doing good !! It will be in smooth learning</h2>
 
 <h2> Hey, This is high time you should not give up!!</h2>
-<h2> Hey, This is high time you should not give up!!</h2>
-<h2> Hey, This is high time you should not give up!!</h2>
